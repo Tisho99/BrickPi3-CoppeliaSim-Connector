@@ -1,5 +1,6 @@
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
+# Author: Robótica Unizar
+# Modified: Alberto Martínez Rodríguez in January 2022.
+
 from __future__ import print_function # use python 3 syntax but make it compatible with python 2
 from __future__ import division       #                           ''
 

@@ -1,3 +1,8 @@
+# Author: Alberto Martínez Rodríguez
+# Date: January 2022
+# 
+# Make sure to have CoppeliaSim running, with followig scene loaded: tests.ttt
+
 import cv2
 
 import CoppeliaAPI.csimCamera as picamera

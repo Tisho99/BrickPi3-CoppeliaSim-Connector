@@ -1,5 +1,6 @@
 # Author: CoppeliaSim
-#
+# Modified: Alberto Martínez Rodríguez in January 2022.
+# 
 # Make sure to have CoppeliaSim running, with followig scene loaded: test_api.ttt
 #
 # Also available on: scenes/messaging/movementViaRemoteApi.ttt
